@@ -3,9 +3,9 @@
 **Welcome to my GitHub profile! I'm a passionate technologist with a mission: to leverage technology for solving real-world human challenges.**
 
 
-<img align="right" width="250" height="250" src="https://www.bing.com/images/create/a-banner-for-a-github-profile-that-is-a-fusion-bet/6542c2a9efef457ea96a63d3fb445c5c?id=HUVg%2BuyPwZromNPgmzX%2FRw.hukwVAaGGNXOOWq7ElA5eQ&view=detailv2&idpp=genimg&idpclose=1&form=SYDBIC">
+<img align="right" width="400" height="400" src="https://github.com/dmmoody/dmmoody/blob/media/_17a06e29-7934-4b15-9d23-6cf6c079d460.jpg?raw=true">
 
-In my digital dominion, I'm a software sorcerer, harnessing the power of brass, cogs, and code to transform problems into opportunities. With a strong foundation in Ruby, Python, Golang and JavaScript, I command a diverse arsenal of programming languages to breathe life into my intricate software symphonies. My journey in the tech world has led me to master a diverse range of skills, making me a versatile problem solver. I thrive on the endless possibilities that programming offers.
+In my digital dominion, I'm a software alchemist, harnessing the power of brass, cogs, and code to transform problems into opportunities. With a strong foundation in Ruby, Python, Golang and JavaScript, I command a diverse arsenal of programming languages to breathe life into my intricate software symphonies. My journey in the tech world has led me to master a diverse range of skills, making me a versatile problem solver. I thrive on the endless possibilities that programming offers.
 
 ## 💼 Proven Track Record in Software Development
 
