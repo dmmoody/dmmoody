@@ -6,7 +6,7 @@ In my digital dominion, I'm a software sorcerer, harnessing the power of brass, 
 
 ## 💼 Proven Track Record in Software Development
 
-I thrive on results and have a proven track record of bringing to life intricate contraptions of software. From the initial blueprint to the grand unveiling, I've steered numerous end-to-end software projects with precision and finesse, meticulously assembling the gears of software engineering. My expertise extends to software engineering methodologies, and I'm a connoisseur of project management tools that keep my creations running smoothly.
+I thrive on results and have a proven track record of bringing to life intricate contraptions of software. From the initial blueprint to the grand unveiling, I've steered numerous end-to-end software projects with precision and finesse, meticulously assembling the gears of software engineering. My expertise extends to software engineering methodologies, and I'm a connoisseur of software orchestration tools that keep my creations running smoothly.
 
 ## 👨‍💻 Mastering the Craft
 
