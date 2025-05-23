@@ -1,25 +1,69 @@
-# 🚀 Unleashing Technological Excellence
+# 🚀 Engineering for Impact — At Scale and In Service
 
-**Welcome to my GitHub profile! I'm a passionate technologist with a mission: to leverage technology for solving real-world human challenges.**
+**Hi, I’m Duane Moody — a principal-level engineer, systems architect, and founder of [XRiley LLC](https://dxrlabs.github.io).**
 
+Through [DXR Labs](https://github.com/dxrlabs), I lead software innovation efforts that span client consulting, internal platforms, and open-source tooling — all focused on solving real human and business problems with code.
 
-<img align="right" width="400" height="400" src="https://github.com/dmmoody/dmmoody/blob/media/_17a06e29-7934-4b15-9d23-6cf6c079d460.jpg?raw=true">
+---
 
-In my digital dominion, I'm a software alchemist, harnessing the power of brass, cogs, and code to transform problems into opportunities. With a strong foundation in Ruby, Python, Golang and JavaScript, I command a diverse arsenal of programming languages to breathe life into my intricate software symphonies. My journey in the tech world has led me to master a diverse range of skills, making me a versatile problem solver. I thrive on the endless possibilities that programming offers.
+## 🔧 What I Build
 
-## 💼 Proven Track Record in Software Development
+I specialize in backend systems that demand **reliability, clarity, and scale**. My expertise includes:
 
-I thrive on results and have a proven track record of bringing to life intricate contraptions of software. From the initial blueprint to the grand unveiling, I've steered numerous end-to-end software projects with precision and finesse, meticulously assembling the gears of software engineering. My expertise extends to software engineering methodologies, and I'm a connoisseur of software orchestration tools that keep my creations running smoothly.
+- **Microservice and event-driven architecture**
+- **Cloud-native and containerized systems**
+- **Data-driven APIs and integration-heavy services**
+- **Developer tooling and documentation strategies**
 
-## 👨‍💻 Mastering the Craft
+I work fluently in Go, Ruby, Python, JavaScript, and Node.js — and across frameworks like Rails, Django, Flask, Express, React, and Next.js. I’ve architected and maintained platforms backed by PostgreSQL, Redis, MongoDB, MySQL, Kafka, and Pub/Sub — with deployments in GCP environments and Docker-based pipelines.
 
-With a keen eye for detail and a flair for innovation, I've been recognized for adeptly managing cross-functional teams. I foster collaboration with stakeholders, ensuring that our projects are not just delivered on time but also within budget. My secret weapon is staying at the forefront of industry trends and technologies, always ready to infuse the latest industry trends and technologies into my grand inventions.
+---
 
-## 🌐 Connecting in the Digital Realm
+## 🏢 Enterprise-Scale, Delivery-Focused
 
-Join me in the digital realm, where we defy limits and engineer contraptions that shape the future. As a software engineer, I'm on a mission to push boundaries, illuminate the darkest corners of technology, and create exceptional software experiences that pay homage to the spirit of innovation.
+I bring deep experience delivering software in **high-regulation, high-availability environments**. My contributions have included:
 
-Let's craft code that defines the future, one project at a time, and bring art of software engineering to new, extraordinary heights. Together, we'll create digital contraptions that stand the test of time.
+- Leading **production migrations** of legacy services to modern cloud infrastructure  
+- Designing and implementing **account verification and financial data pipelines**  
+- Building **event consumers** and service documentation for distributed systems  
+- Advocating for **test strategy improvements and engineering clarity** within platform teams  
 
-## 📫 Get in Touch
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/dmmoody).
+Throughout, I’ve worked across functional boundaries — collaborating with architects, product leads, and engineers to keep complex systems understandable and maintainable.
+
+---
+
+## ⚙️ DXR Labs: Innovation in Practice
+
+At DXR Labs, I apply everything I’ve learned from enterprise software to modernize dev environments, explore architectural patterns, and lead applied R&D. It’s where I prototype new systems, incubate OSS tools, and mentor developers through initiatives like **CodeScouts** — focused on technical growth and community contribution.
+
+---
+
+## 👥 Who I Work With
+
+I partner with:
+
+- **Engineering teams** navigating complexity at scale  
+- **Product orgs** seeking delivery-focused senior contributors  
+- **Consulting clients** who need pragmatic software systems that align with business value  
+- **Technical leaders** who want experience-backed input without ego or hand-waving
+
+---
+
+## 🧭 My Operating Principles
+
+- **Solve the right problem.** Tools don’t matter if you’re solving the wrong thing.
+- **Clarity over cleverness.** Good systems don’t require guesswork.  
+- **Leave it better than you found it.** Code, docs, pipelines, patterns — it all matters.
+- **Ship. Learn. Repeat.** I value output and clarity over perfection and delay.
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dmmoody)  
+- 🧪 [DXR Labs on GitHub](https://github.com/dxrlabs)  
+- 📬 Email available on request
+
+---
+
+> Whether you’re launching a product, scaling a team, or building infrastructure that can’t fail — I bring deep engineering experience, strategic foresight, and a commitment to meaningful outcomes.
