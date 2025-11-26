@@ -1,69 +1,67 @@
-# 🚀 Engineering for Impact — At Scale and In Service
+# ⚙️ Engineering for Impact — At Scale and In Service
 
-**Hi, I’m Duane Moody — a principal-level engineer, systems architect, and founder of [XRiley LLC](https://dxrlabs.github.io).**
+**Hi, I’m Duane Moody — a principal-level engineer, systems architect, and founder of [XRiley LLC](https://www.xriley.com).**
 
-Through [DXR Labs](https://github.com/dxrlabs), I lead software innovation efforts that span client consulting, internal platforms, and open-source tooling — all focused on solving real human and business problems with code.
-
----
-
-## 🔧 What I Build
-
-I specialize in backend systems that demand **reliability, clarity, and scale**. My expertise includes:
-
-- **Microservice and event-driven architecture**
-- **Cloud-native and containerized systems**
-- **Data-driven APIs and integration-heavy services**
-- **Developer tooling and documentation strategies**
-
-I work fluently in Go, Ruby, Python, JavaScript, and Node.js — and across frameworks like Rails, Django, Flask, Express, React, and Next.js. I’ve architected and maintained platforms backed by PostgreSQL, Redis, MongoDB, MySQL, Kafka, and Pub/Sub — with deployments in GCP environments and Docker-based pipelines.
+I design and build distributed systems that prioritize clarity, reliability, and long-term sustainability. My work spans high-volume backend services, financial and operational pipelines, and cloud-native architectures where correctness matters.
 
 ---
 
-## 🏢 Enterprise-Scale, Delivery-Focused
+## 🛠️ What I Build
 
-I bring deep experience delivering software in **high-regulation, high-availability environments**. My contributions have included:
+I specialize in backend systems that demand reliability, determinism, and scale, including:
 
-- Leading **production migrations** of legacy services to modern cloud infrastructure  
-- Designing and implementing **account verification and financial data pipelines**  
-- Building **event consumers** and service documentation for distributed systems  
-- Advocating for **test strategy improvements and engineering clarity** within platform teams  
+- Microservice and event-driven architectures  
+- Cloud-native and containerized systems (GCP, Docker, Kubernetes)  
+- Integration-heavy, data-driven APIs  
+- Developer tooling, workflows, and documentation practices  
 
-Throughout, I’ve worked across functional boundaries — collaborating with architects, product leads, and engineers to keep complex systems understandable and maintainable.
-
----
-
-## ⚙️ DXR Labs: Innovation in Practice
-
-At DXR Labs, I apply everything I’ve learned from enterprise software to modernize dev environments, explore architectural patterns, and lead applied R&D. It’s where I prototype new systems, incubate OSS tools, and mentor developers through initiatives like **CodeScouts** — focused on technical growth and community contribution.
+I work across Go, Ruby, Python, JavaScript, and Node.js — using frameworks such as Rails, Django, Flask, Express, React, and Next.js.  
+Data experience includes PostgreSQL, Redis, MongoDB, MySQL, Kafka, and Pub/Sub.
 
 ---
 
-## 👥 Who I Work With
+## 🏢 Enterprise-Scale Experience
 
-I partner with:
+I have extensive experience building and supporting software in regulated and high-availability environments, including:
 
-- **Engineering teams** navigating complexity at scale  
-- **Product orgs** seeking delivery-focused senior contributors  
-- **Consulting clients** who need pragmatic software systems that align with business value  
-- **Technical leaders** who want experience-backed input without ego or hand-waving
+- Migrating legacy systems to modern cloud infrastructure  
+- Designing deterministic ingestion and financial data pipelines  
+- Building event consumers, schedulers, and integration layers  
+- Strengthening test strategies, documentation, and service clarity  
+- Collaborating with product, architecture, and platform teams  
 
----
-
-## 🧭 My Operating Principles
-
-- **Solve the right problem.** Tools don’t matter if you’re solving the wrong thing.
-- **Clarity over cleverness.** Good systems don’t require guesswork.  
-- **Leave it better than you found it.** Code, docs, pipelines, patterns — it all matters.
-- **Ship. Learn. Repeat.** I value output and clarity over perfection and delay.
+My focus is producing systems and patterns that remain reliable when real traffic and real business constraints show up.
 
 ---
 
-## 📫 Let’s Connect
+## 🔬 DXR Labs
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dmmoody)  
-- 🧪 [DXR Labs on GitHub](https://github.com/dxrlabs)  
-- 📬 Email available on request
+DXR Labs is where I explore architectural patterns, prototype tooling, and run applied engineering R&D. It supports client work, internal experiments, and open-source contributions — creating space to test ideas before they reach production systems.
 
 ---
 
-> Whether you’re launching a product, scaling a team, or building infrastructure that can’t fail — I bring deep engineering experience, strategic foresight, and a commitment to meaningful outcomes.
+## 🤝 How I Collaborate
+
+I work effectively with:
+
+- Engineering teams navigating complexity  
+- Product and platform groups needing clarity in system design  
+- Technical leaders seeking grounded architectural insight  
+- Organizations that require reliability and maintainability in their core systems  
+
+---
+
+## 📐 Principles I Build With
+
+- Start with the real problem; everything else follows.  
+- Clarity over cleverness; reliable systems should be understandable.  
+- Improve the ecosystem: code, docs, patterns, and processes all matter.  
+- Deliver iteratively: ship, observe, refine.  
+
+---
+
+## ✉️ Connect
+
+- [LinkedIn](https://www.linkedin.com/in/dmmoody)  
+- [DXR Labs on GitHub](https://github.com/dxrlabs)  
+- Email available on request
